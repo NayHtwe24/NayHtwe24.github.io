@@ -228,5 +228,12 @@
         "full_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p209243.png",
         "number": "25",
         "position": "Forward"
+    },
+    {
+        "name" : "Cristiano Ronaldo",
+        "image": "https://i.pinimg.com/originals/ab/8c/33/ab8c3359fc3de262fd478fe7aac1380e.jpg",
+        "full_image": "https://i.pinimg.com/originals/ab/8c/33/ab8c3359fc3de262fd478fe7aac1380e.jpg",
+        "number": "28",
+        "position": "Forward"
     }
   ]
