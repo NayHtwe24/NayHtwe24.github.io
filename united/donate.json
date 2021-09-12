@@ -2,26 +2,22 @@
     {
         "name": "KBZ Pay",
         "full_image_url": "https://nayhtwe24.github.io/united/pay/kpay.jpg",
-        "description" : "Treat me a cup of coffee ! Thank you United Fans ^^",
-        "phone_no": "0943054227"
+        "description" : "Treat me a cup of coffee ! Thank you United Fans ^^"
     },
     {
         "name": "AYA Pay (To Wallet)",
         "full_image_url": "https://nayhtwe24.github.io/united/pay/Aya.jpg",
-        "description" : "Treat me a cup of coffee ! Thank you United Fans ^^",
-        "phone_no": "0943054227"
+        "description" : "Treat me a cup of coffee ! Thank you United Fans ^^"
     },
     {
         "name": "CB Pay",
         "full_image_url": "https://nayhtwe24.github.io/united/pay/cbpay.jpg",
-        "description" : "Treat me a cup of coffee ! Thank you United Fans ^^",
-        "phone_no": " "
+        "description" : "Treat me a cup of coffee ! Thank you United Fans ^^"
     },
     {
         "name": "Wave Pay",
         "full_image_url": "https://nayhtwe24.github.io/united/pay/wave.jpg",
-        "description" : "Treat me a cup of coffee ! Thank you United Fans ^^",
-        "phone_no": "09796144157"
-    },
+        "description" : "Treat me a cup of coffee ! Thank you United Fans ^^"
+    }
 
 ]
