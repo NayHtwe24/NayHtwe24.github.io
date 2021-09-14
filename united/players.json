@@ -2,6 +2,7 @@
     {
         "name" : "Ole Gunnar Solskjaer",
         "image": "https://assets.manutd.com/AssetPicker/images/0/0/13/161/893212/Profile-Thumbnail-Ole-Gunnar-Solskjaer1580311613232.jpg",
+        "full_image": "https://assets.manutd.com/AssetPicker/images/0/0/13/161/893212/Profile-Thumbnail-Ole-Gunnar-Solskjaer1580311613232.jpg",
         "number": "",
         "position": "Manager"
     },
@@ -125,13 +126,6 @@
         "position": "Midfielder"
     },
     {
-        "name" : "Daniel James",
-        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p200617.png",
-        "full_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p200617.png",
-        "number": "23",
-        "position": "Midfielder"
-    },
-    {
         "name" : "Nemanja Matic",
         "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p62398.png",
         "full_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p62398.png",
@@ -198,7 +192,7 @@
         "name" : "Edinson Cavani",
         "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p40720.png",
         "full_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p40720.png",
-        "number": "7",
+        "number": "21",
         "position": "Forward"
     },
     {
@@ -233,7 +227,7 @@
         "name" : "Cristiano Ronaldo",
         "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p14937.png",
         "full_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p14937.png",
-        "number": "28",
+        "number": "7",
         "position": "Forward"
     }
   ]
