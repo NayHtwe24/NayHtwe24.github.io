@@ -1,8 +1,8 @@
 [
     {
         "name" : "Ole Gunnar Solskjaer",
-        "image": "https://assets.manutd.com/AssetPicker/images/0/0/13/161/893212/Profile-Thumbnail-Ole-Gunnar-Solskjaer1580311613232.jpg",
-        "full_image": "https://assets.manutd.com/AssetPicker/images/0/0/13/161/893212/Profile-Thumbnail-Ole-Gunnar-Solskjaer1580311613232.jpg",
+        "image": "https://raw.githubusercontent.com/NayHtwe24/NayHtwe24.github.io/master/united/image/ole.png",
+        "full_image": "https://raw.githubusercontent.com/NayHtwe24/NayHtwe24.github.io/master/united/image/ole.png",
         "number": "",
         "position": "Manager"
     },
@@ -156,7 +156,7 @@
     {
         "name" : "Jesse Lingard",
         "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/66/1000143/Treated_Player_Profile_Thumbnail_Lingard1626422106800.jpg",
-        "full_image": "https://assets.manutd.com/AssetPicker/images/0/0/15/66/1000143/Treated_Player_Profile_Thumbnail_Lingard1626422106800.jpg",
+        "full_image": "https://raw.githubusercontent.com/NayHtwe24/NayHtwe24.github.io/master/united/image/lingard.png",
         "number": "14",
         "position": "Midfielder"
     },
