@@ -1,7 +1,7 @@
 [
     {
-        "live_video_url": "https://d18z7qd4lgwjkx.cloudfront.net/out/v1/5c3c5578207f4deda32a801106c0a37c/index_2.m3u8",
+        "live_video_url": "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
         "default_video_url": "https://lnc-wnyw-fox-aws.tubi.video/index.m3u8",
-        "status": false
+        "status": true
     }
 ]
