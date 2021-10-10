@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "name": "H.M. King Bhumibol Adulyadej The Great Memorial Day",
+            "date": "2021-10-13 ဗုဒ္ဓဟူးနေ့"
+        },
+        {
+            "name": "Substitution for Chulalongkorn Day (Saturday 23th October 2021) (added)",
+            "date": "2021-10-22 သောကြာနေ့"
+        },
+        {
+            "name": "Substitution for H.M. King Bhumibol Adulyadej The Great's Birthday/ National Day / Father's Day (Sunday 5th December 2020)",
+            "date": "2021-12-06 တနင်္လာနေ့"
+        },
+        {
+            "name": "Constitution Day",
+            "date": "2021-12-10 သောကြာနေ့"
+        },
+        {
+            "name": "New Year's Eve",
+            "date": "2021-12-31 သောကြာနေ့"
+        }
+    ],
+    "result": 1,
+    "message": "success"
+}
