@@ -1,7 +1,7 @@
 [
     {
-        "live_video_url": "https://dj8baylqw7a4h.cloudfront.net/out/v1/411224c490e5498e9ebbf9c7c7fe56ea/index_3.m3u8",
-        "default_video_url": "https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8",
+        "live_video_url": "https://d15ys2e0a8nzxr.cloudfront.net/streaming/865b5819cafa4deb35f5febd01a304b7_mv_ls_mid/index.m3u8",
+        "default_video_url": "https://d15ys2e0a8nzxr.cloudfront.net/streaming/865b5819cafa4deb35f5febd01a304b7_mv_ls_mid/index.m3u8",
         "status": true
     }
 ]
